@@ -1,0 +1,56 @@
+{
+  "seller": [
+    {
+      "First": "revti",
+      "Last": " ture",
+      "Email": "revtiture@gmail.com",
+      "password": "12345",
+      "id": 1
+    },
+    {
+      "First": "kishor",
+      "Last": "burkul",
+      "Email": "kishh@gmail.com",
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "First": "sachin",
+      "Last": "kate",
+      "Email": "sachin@gmail.com",
+      "password": "12345abc",
+      "id": 3
+    },
+    {
+      "First": "",
+      "Last": "",
+      "Email": "",
+      "password": "",
+      "id": 4
+    },
+    {
+      "First": "",
+      "Last": "",
+      "Email": "",
+      "password": "",
+      "id": 5
+    },
+    {
+      "First": "",
+      "Last": "",
+      "Email": "",
+      "password": "",
+      "id": 6
+    },
+    {
+      "First": "getri",
+      "Last": "tethe",
+      "Email": "tethe@gm.com",
+      "password": "123456677",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {}
+  ]
+}
